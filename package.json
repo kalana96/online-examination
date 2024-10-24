@@ -1,5 +1,5 @@
 {
-  "name": "mosaic-react",
+  "name": "online-examination-client",
   "version": "0.1.0",
   "type": "module",
   "scripts": {
@@ -19,6 +19,7 @@
     "cors": "^2.8.5",
     "moment": "^2.29.4",
     "mosaic-react": "file:",
+    "online-examination-client": "file:",
     "react": "^18.2.0",
     "react-bootstrap": "^2.10.5",
     "react-dom": "^18.2.0",
